@@ -1,0 +1,24 @@
+{
+  "name": "facebookbot-example",
+  "version": "0.0.1",
+  "description": "A facebookbot example using Node.js and Express 4",
+  "author": "Derek Chang",
+  "engines": {
+    "node": "6.2.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "4.13.3",
+    "request": "^2.72.0"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "facebookbot"
+  ],
+  "license": "MIT"
+}
